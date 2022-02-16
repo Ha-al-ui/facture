@@ -1,0 +1,35 @@
+.rounded{
+    margin-left: 350px;
+}
+body{
+    background-color: #9487D6;
+}
+.mb-5{
+    margin-left: 5rem;
+    color: #ffffff;
+}
+.header{
+    background-color: #F2C572;
+}
+.wiht{
+    color: #ffffff;
+    font-weight: bold;
+
+}
+.size{
+    font-size: large;
+    color: #F2C572;
+    font-weight: bold;
+}
+.form-label{
+    font-size: large;
+    color: #ffffff;
+    font-weight: bold;
+}
+.botton{
+    border-radius: 10px;
+    background-color: #F2C572;
+    color: #7C62C6;
+    font-size: large;
+    font-weight: bold;
+}
